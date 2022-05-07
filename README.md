@@ -95,13 +95,6 @@
   I like connecting with people. So I'm all ears for anything you'd like to say to me. Write to me at <a href="mailto:hi@pprkut.com">hi@pprkut.com</a>
 </details>
 
-<details>
-  <summary><b>Buy me a Coffee ☕️</b></summary>
-  <div align="left">
-    <br/>
-    <a href="https://www.buymeacoffee.com/x0rsec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-  </div>
-</details>
 
 <details>
   <summary><b>Buy me a Coffee ☕️</b></summary>
