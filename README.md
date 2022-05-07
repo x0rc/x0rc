@@ -30,7 +30,7 @@
 
 <br/>
 
-##### Interested in a career in DevOps. Cloud Computing and Cybersecurity are two of my passions. I found myself spending the majority of my free time on platforms like TryHackMe and HackTheBox, where I learned a valuable lesson in addition to security, Linux, and networking fundamentals: **there is always a way in.** 
+##### Interested in a career in DevOps. Cloud Computing and Cybersecurity are two of my passions. I found myself spending the majority of my free time on platforms like TryHackMe, HackTheBox & ProvingGrounds where I learned a valuable lesson in addition to security, Linux, and networking fundamentals: **there is always a way in.** 
 
 #### Currently jamming to 🎧️
 
