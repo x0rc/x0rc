@@ -55,32 +55,19 @@
   <summary><b>Skills 💻🌱</b></summary>
   <br/>
 
-  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-black?style=plastic&logo=typescript)
-  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell)
-  ![Web3](https://img.shields.io/badge/-Web3-black?style=plastic&logo=blockchain)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
-  ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.JS-black?style=plastic&logo=Next.js)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-black?style=plastic&logo=express)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=plastic&logo=amazon-aws)
   ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-black?style=plastic&logo=github-actions)
   ![GitLab](https://img.shields.io/badge/-GitLab-black?style=plastic&logo=gitlab)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-  ![HarperDB](https://img.shields.io/badge/-HarperDB-black?style=plastic&logo=harperdb) 
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql) 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql)
-  ![SQLServer](https://img.shields.io/badge/-MSSQL-black?style=plastic&logo=sqlserver)
   ![Postman](https://img.shields.io/badge/-Postman-black?style=plastic&logo=Postman)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=plastic&logo=cloudflare)
-  ![cPanel](https://img.shields.io/badge/-cPanel-black?style=plastic&logo=cPanel)
   ![nginx](https://img.shields.io/badge/-nginx-black?style=plastic&logo=nginx)
-  ![npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
   ![linux](https://img.shields.io/badge/-linux-black?style=plastic&logo=linux)
-  ![firebase](https://img.shields.io/badge/-firebase-black?style=plastic&logo=firebase)  
 
 </details> 
 
